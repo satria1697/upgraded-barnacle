@@ -1,0 +1,27 @@
+{
+  "name": "mine-oauth",
+  "version": "1.0.0",
+  "description": "Oauth Frontend",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "eslint": "^8.17.0",
+    "eslint-plugin-vue": "^9.1.1",
+    "eslint-config-prettier": "^8.5.0",
+    "typescript": "^4.7.3",
+    "vite": "^2.9.12",
+    "vite-plugin-eslint": "^1.6.1",
+    "vue-tsc": "^0.37.9",
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0",
+    "prettier": "^2.7.1"
+  },
+  "author": "satria1697",
+  "license": "ISC"
+}

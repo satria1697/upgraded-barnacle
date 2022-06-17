@@ -1,0 +1,16 @@
+{
+  "env": {
+    "vue/setup-compiler-macros": true
+  },
+  "parser": "vue-eslint-parser",
+  "plugins": ["@typescript-eslint"],
+  "parserOptions": {
+    "parser": "@typescript-eslint/parser",
+  "sourceType": "module"
+  },
+  "extends": [
+    "plugin:vue/vue3-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier"
+  ]
+}
